@@ -9,3 +9,7 @@ Template:       shop-isle
 */
 
 @import url("../shop-isle/style.css");
+
+.shop-isle-poweredby-box{
+    display: none;
+}
