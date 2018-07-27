@@ -10,10 +10,14 @@ Template:       shop-isle
 
 @import url("../shop-isle/style.css");
 
-.shop-isle-poweredby-box{
+.shop-isle-poweredby-box {
     display: none;
 }
 
-.nav{
+.nav {
     font-size: 1.5rem;
+}
+
+.module {
+    padding: 2% 0 2% 0;
 }
