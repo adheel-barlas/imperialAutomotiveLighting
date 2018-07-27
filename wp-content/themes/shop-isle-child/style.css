@@ -13,3 +13,7 @@ Template:       shop-isle
 .shop-isle-poweredby-box{
     display: none;
 }
+
+.nav{
+    font-size: 1.5rem;
+}
